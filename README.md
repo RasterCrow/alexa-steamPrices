@@ -6,5 +6,5 @@ It was also my first skill developed for Alexa.
 
 # Contents
 
-The gamePriceIntent.js is the main function, inside aws lambda.
+The index.js is the main function, inside aws lambda.
 Api.py is the first prototype I made for the skill in python. I later found out that you could also develop in python for alexa, but hey, I learned some js so that's nice.
